@@ -1,0 +1,16 @@
+body {
+    background-color: #ffffff;
+}
+#lesson {
+    background-color: greenyellow;
+    padding: 10px;
+    margin: 10px;
+    max-width: 15em;
+}
+
+#week {
+    background-color: gray;
+    padding: 10px;
+    margin: 10px;
+    max-width: 15em;
+}
